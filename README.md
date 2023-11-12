@@ -1,1 +1,1 @@
-[CV link Ochirov Bair](https://OchirovBair.github.io/rsschool-cv/cv)
+https://OchirovBair.github.io/rsschool-cv/cv
