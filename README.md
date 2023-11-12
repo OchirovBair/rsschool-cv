@@ -1,1 +1,1 @@
-# rsschool-cv
+[CV link Ochirov Bair](https://OchirovBair.github.io/rsschool-cv/cv)
