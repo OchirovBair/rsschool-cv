@@ -6,9 +6,9 @@
 ## About me
 I'm electician designer and I'm working about 5 years at this position. Before I was regular electrician. I did simple handwork on the construction site.
 
- I'm learning skills like knowledge HTML, CSS and base Javascript about  6 month ago. My goal is become Junior Frontend Developer and work remotely.
+I'm learning skills like knowledge HTML, CSS and base Javascript about  6 month ago. My goal is become Junior Frontend Developer and work remotely.
 
- I like developing some code which decide different task. Of Course it is simple tasks, but it's very interesting for me.
+I like developing some code which decide different task. Of Course it is simple tasks, but it's very interesting for me.
 ## Skills
 - **HTML**
 - **CSS**
